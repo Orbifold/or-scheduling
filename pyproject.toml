@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "scheduling-poc"
+version = "0.1.0"
+description = "This project is a scheduling solution based on OR Tools. It is a simple example of how to use OR Tools to solve a scheduling problem."
+authors = ["Swa <swa@orbifold.net>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+ortools = "^9.11.4210"
+plotly = "^5.24.1"
+pandas = "^2.2.3"
+jupyter = "^1.1.1"
+matplotlib = "^3.9.2"
+pytest = "^8.3.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
