@@ -12,7 +12,10 @@ The use-case is similar to [the job shop problem (JSP)](https://en.wikipedia.org
 - the objective function is to minimize the total time to service all locations.
 
 📘 The book entitled ["A book on open shop scheduling"](https://www.amazon.com/Book-Open-Shop-Scheduling-International/dp/303091027X) by Wieslaw Kubiak provides a good introduction to the topic.
+
 🐺 You can also find [a simplified approach using Wolfram](https://discovery.graphsandnetworks.com/diverse/wolfram-scheduling.html) on Orbifold's Journal.
+
+<a href="https://colab.research.google.com/drive/1C1wnH-RyX4wJR77s0_cnaVJnVqFiCPep" target="_parent"><img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
 ## Installation
 
